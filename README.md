@@ -1,6 +1,6 @@
-# 📒 Contact Book (C++)
+# Contact Book (C++)
 
-# 📌 Overview
+# Overview
 
 The Contact Book is a C++ program that allows users to store, search, update, and delete contacts.
 Each contact contains a name, phone number, and email address. The program uses a Linked List to manage contacts in memory and keeps them sorted alphabetically by name.
@@ -9,21 +9,21 @@ Contacts are also stored in a file (contacts.txt) so that the data is not lost w
 
 This project demonstrates the use of self-referential structures, dynamic memory, linked lists, and file handling.
 
-# 🚀 Features
+#  Features
 
-➕ Add Contact → Add a new contact (name, phone, email)
+ Add Contact → Add a new contact (name, phone, email)
 
-📄 Display Contacts → View all stored contacts in alphabetical order
+ Display Contacts → View all stored contacts in alphabetical order
 
-🔍 Search Contact → Search by name and display details
+ Search Contact → Search by name and display details
 
-✏️ Update Contact → Edit phone/email of an existing contact
+ Update Contact → Edit phone/email of an existing contact
 
-❌ Delete Contact → Remove a contact by name
+ Delete Contact → Remove a contact by name
 
-💾 Save & Load → Automatically saves to contacts.txt and loads at startup
+ Save & Load → Automatically saves to contacts.txt and loads at startup
 
-# 🏗️ Data Structures Used
+#  Data Structures Used
 
 Struct (Contact) → Stores details (name, phone, email)
 
@@ -37,7 +37,7 @@ Sorted Insertion → Contacts are inserted in alphabetical order by name
 
 
 
-# ▶️ How to Run
+# ▶ How to Run
 
 1. Clone the repository
 
